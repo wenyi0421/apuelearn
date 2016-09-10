@@ -1,3 +1,0 @@
-test 
-wenyi
-helloworld
